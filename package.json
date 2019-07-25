@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "node src/index.js",
-    "dev": "nodemon src/index.js -e html,js"
+    "dev": "nodemon src/index.js -e html,js,css"
   },
   "keywords": [],
   "author": "",
